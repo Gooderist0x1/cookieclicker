@@ -7,3 +7,5 @@ main.js
 minigameGarden.js
 minigameGrimoire.js
 minigamePantheon.js
+minigameDungeon.js
+minigameMarket.js
